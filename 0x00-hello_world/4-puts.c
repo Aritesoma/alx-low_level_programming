@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * Description: programs that run a string
- * main - this program prints a string using puts function
- * return: value of main is 0
+ * main - This prints everything in it
+(*
+ * Description: This progam prints a string using puts)?
+ * Return: The returned value is 0
  */
 int main(void)
 {
