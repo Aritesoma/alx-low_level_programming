@@ -1,0 +1,1 @@
+readme for the c hello world program i initially forgot to create ;)
