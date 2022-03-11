@@ -1,0 +1,22 @@
+#include <stdio.h>
+/**
+ * main - prints all in it
+ *
+ * Description: Eliminating some letters)?
+ * Return: Returned value is 0
+ */
+
+int main(void)
+{
+char ch = 'a';
+
+while (ch <= 'z')
+{
+if (ch != 'g' && ch != 'e')
+putchar(ch);
+ch++;
+}
+putchar('\n');
+return (0);
+
+}
