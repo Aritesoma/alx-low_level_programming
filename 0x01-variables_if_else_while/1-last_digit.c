@@ -16,7 +16,7 @@ int n, LastDigit;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 
-scanf("%d", & n);
+scanf("%d", &n);
 LastDigit = n % 10;
 
 if (LastDigit > 5)
