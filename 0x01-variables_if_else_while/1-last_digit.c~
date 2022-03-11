@@ -1,0 +1,23 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
+
+/**
+ * main - Everything here exe
+(*
+ * Description: Printing last digit)?
+ * Return: Returned value is 0
+ */
+
+int main(void)
+{
+int n, LastDigit;
+scanf("%d", % n);
+LastDigit = n % 10;
+srand(time(0));
+n = rand() - RAND_MAX / 2;
+
+ scanf("%d", & n);
+ 
+return (0);
+}
