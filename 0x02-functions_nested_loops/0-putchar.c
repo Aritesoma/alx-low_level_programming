@@ -1,8 +1,6 @@
 #include "main.h"
 
-/**
- * print_putchar - of print_putchar function
-*/
+/* Declaration of print_putchar function */
 void print_putchar(void);
 
 /**
