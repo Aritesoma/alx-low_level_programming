@@ -1,22 +1,13 @@
 #include "main.h"
 
-/* Declaration of print_putchar function */
-void print_putchar(void);
-
 /**
  * main - Entry point
- *
+ * Description: printing putchar
  * Return: Valued at zero
  */
 
 
 int main(void)
-{
-print_putchar();
-return (0);
-}
-
-void print_putchar(void)
 {
 _putchar('_');
 _putchar('p');
@@ -27,4 +18,6 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
+return (0);
 }
