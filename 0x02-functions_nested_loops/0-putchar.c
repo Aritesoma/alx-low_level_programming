@@ -1,14 +1,13 @@
 #include "main.h"
 
 /**
- * print_putchar - of print_putchar function 
- */
+ * print_putchar - of print_putchar function
+*/
 void print_putchar(void);
 
 /**
  * main - Entry point
- * print_putchar - Function to print chars
- * Description: Printing putchar using putchar
+ *
  * Return: Valued at zero
  */
 
