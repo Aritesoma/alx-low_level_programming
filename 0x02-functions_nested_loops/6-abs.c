@@ -5,7 +5,7 @@
  * _abs - defines absolute valus
  * @x: integer
  *
- * Return (0);
+ * Return: Valued 0
  */
 
 int _abs(int x)
