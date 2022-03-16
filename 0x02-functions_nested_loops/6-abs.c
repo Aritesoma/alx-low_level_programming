@@ -1,4 +1,6 @@
+#include <stdlib.h>
 #include "main.h"
+
 /**
  * _abs - defines absolute valus
  * @x: integer
@@ -8,6 +10,6 @@
 
 int _abs(int x)
 {
-	x = _abs(x);
+	x = abs(x);
 	return (x);
 }
