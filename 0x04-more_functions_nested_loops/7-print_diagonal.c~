@@ -1,0 +1,21 @@
+#include "main.h"
+
+/**
+ * print_diagonal - prints a line of _ n long
+ * @n: length of line
+ *
+ * Return: void
+ */
+
+void print_diagonal(int n)
+{
+	int dia = 0;
+
+	while (dia < n)
+	{
+		_putchar('\*');
+		dia++;
+		_putchar('\n');
+	}
+	_putchar('\n');
+}
