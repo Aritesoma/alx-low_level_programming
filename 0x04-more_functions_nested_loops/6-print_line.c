@@ -1,0 +1,26 @@
+#include "main.h"
+
+/**
+ * print_line - printing a line
+ * @n: n is a number
+ *
+ * Description: To print a line
+ *
+ * Return: Valued 0
+ */
+
+void print_line(int n)
+{
+       if (n > 0)
+	{
+		_putchar('_');
+
+	}
+
+       if (n <= 0)
+       {
+	       _putchar('\n');
+       }
+
+
+}
