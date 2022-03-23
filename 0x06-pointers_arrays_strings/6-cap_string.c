@@ -21,7 +21,7 @@ char *cap_string(char *s)
 		}
 		if (s[count] == ' ' || s[count] == '\t' || s[count] == '\n'
 		    || s[count] == ',' || s[count] == ';' || s[count] == '.'
-		        || s[count] == '.' || s[count] == '!' || s[count] == '?'
+		    || s[count] == '.' || s[count] == '!' || s[count] == '?'
 		    || s[count] == '"' || s[count] == '(' || s[count] == ')'
 		    || s[count] == '{' || s[count] == '}')
 		{
