@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- *  factorial - Of a given number
+ * factorial - Of a given number
  * @n: The given number
+ *
  * Return: 0
  */
 
