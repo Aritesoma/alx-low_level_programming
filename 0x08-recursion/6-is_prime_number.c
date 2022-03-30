@@ -1,13 +1,11 @@
 #include "main.h"
-
 /**
- * is_prime_number - prime numbers
- * @n: The number
- * @i: Possible factor of the number
+ *helperFunction - returns 0 or 1.
+ *@num: number being checked.
+ *@i: possible factor of the number.
  *
- * Return: 1 if the no is prime
+ *Return: 0 if not prime, 1 if prime.
  */
-
 int helperFunction(int num, int i)
 {
 	if (i < num)
