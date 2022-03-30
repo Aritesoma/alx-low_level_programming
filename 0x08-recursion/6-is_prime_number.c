@@ -3,6 +3,7 @@
 /**
  * is_prime_number - prime numbers
  * @n: The number
+ * @i: Possible factor of the number
  *
  * Return: 1 if the no is prime
  */
