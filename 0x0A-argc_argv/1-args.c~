@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+/**
+ * main - Print stuff
+ * @argc: Num of arguements
+ * @argv: Array containing CL arguements
+ *
+ * Return: 0
+ */
+
+int main(int argc, char *argv[] __attribute__((unused)))
+{
+	printf("%d\n", argc);
+	return (0);
+}
