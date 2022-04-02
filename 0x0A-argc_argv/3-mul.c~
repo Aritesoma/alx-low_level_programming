@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+/**
+ * main - a function
+ * @a: first int
+ * @b: second int
+ *
+ * Return: 0 success, 1 error
+ */
+
+int mul(int a, int b)
+{
+	if (a * b)
+	{
+		printf("%d\n", a * b);
+		return (0);
+	}
+
+	else
+	{
+		printf("Error\n");
+		return (1);
+	}
+}
