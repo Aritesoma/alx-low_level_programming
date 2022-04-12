@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+/**
+ * print_name - prints name of program complied from
+ *
+ * @argv: argument vector
+ * Return: 0
+ */
+
+int print_name(argv)
+{
+	printf("%c\n", argv);
+	return (0);
+}
