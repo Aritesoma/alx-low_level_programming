@@ -1,0 +1,1 @@
+Directory for c structs and typedef
