@@ -1,0 +1,1 @@
+Hash table is a data structure that is used to install information
